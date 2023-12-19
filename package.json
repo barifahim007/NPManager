@@ -1,0 +1,20 @@
+{
+  "name": "fahim-npm-country",
+  "version": "1.0.0",
+  "description": "first npm manager",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "country"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "rollup": "^4.9.1"
+  }
+}
